@@ -205,7 +205,7 @@ If you enjoy the plugin, consider supporting **KIBA OFFICIAL**!
 
 **[discord.gg/E6Wss5BGbG](https://discord.gg/E6Wss5BGbG)**
 
-![Discord QR](qr-code_1782527819180.png)
+![Discord QR](assets/qr-code_1782527819180.png)
 
 ---
 
@@ -213,7 +213,7 @@ If you enjoy the plugin, consider supporting **KIBA OFFICIAL**!
 
 **Address:** `UQA2WxzwOQt3B808Z5ezMfwixVdCFdeBG3dtBTm8txHR7QVs`
 
-![USDT QR](qr-code_(1)_1782527819137.png)
+![USDT QR](assets/qr-code_(1)_1782527819137.png)
 
 ---
 
@@ -221,7 +221,7 @@ If you enjoy the plugin, consider supporting **KIBA OFFICIAL**!
 
 **UPI ID:** `kebamimi1@oksbi`
 
-![UPI QR](qr-code_(2)_1782527819085.png)
+![UPI QR](assets/qr-code_(2)_1782527819085.png)
 
 ---
 
